@@ -1,7 +1,7 @@
 # Pws-Generator-AK
 
-## Discription 
-This is an application that generates a random password based on user-selected criteria. Once the application valiadates the user inputs, the user will be presented with a password matching the answered prompts. The application is also responsive, ensuring that it adapt to mutiple screen sizes.  
+## Description
+This is an application that generates a random password based on user-selected criteria. Once the application validates the user inputs, the user will be presented with a password matching the answered prompts. The application is also responsive, ensuring that it adapt to multiple screen sizes.
 
 
 ## Instructions
