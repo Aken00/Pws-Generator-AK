@@ -17,7 +17,7 @@ Uppercase characters
 
 
 ## Web Link 
-Visit deplyed project at: https://github.com/Aken00/Pws-Generator-AK.git
+Visit deplyed project at: https://aken00.github.io/Pws-Generator-AK/
 
 
 ![Alt text](images/Pws-generator-SS.png)
